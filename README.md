@@ -12,7 +12,7 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 
-# To run the test, execute the following command from the the merkle-trees directory.
+To run the test, execute the following command from the the merkle-trees directory.
 ```shell
 npx hardhat test
 ```
